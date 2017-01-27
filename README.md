@@ -17,6 +17,12 @@ Header 1 is in the very first line. Header 2 is right above this line.
 
 ### This is H3
 
+#### This is H4
+
+##### This is H5
+
+###### And here is H6
+
 ## Lists
 
 I'm a fan of lists. They make things easier to read.
