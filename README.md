@@ -1,16 +1,6 @@
 # gh-pages
 # Task 1.9: Markdown
 
-Table of Contents  
-
-* Headers
-
-* Lists
-
-* Tables
-
-* Links
-
 ## Headers
 
 Header 1 is in the very first line. Header 2 is right above this line.
