@@ -17,21 +17,9 @@ Header 1 is in the very first line. Header 2 is right above this line.
 
 ### This is H3
 
-#### This is H4
-
-##### And here is H5
-
-###### Finally, H6
-
 ## Lists
 
 I'm a fan of lists. They make things easier to read.
-
-* Bullet point 1
-
-  * Sub bullet 1
-  
-Numbered lists are cool, too
 
   2. Un
   3. Deux
