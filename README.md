@@ -1,5 +1,5 @@
 # gh-pages
-#Task 1.9: Markdown
+# Task 1.9: Markdown
 
 Table of Contents  
 * Headers
@@ -7,15 +7,15 @@ Table of Contents
 * Tables
 * Links
 
-##Headers
+## Headers
 Header 1 is in the very first line. Header 2 is right above this line.
 
-###This is H3
-####This is H4
-#####And here is H5
-######Finally, H6
+### This is H3
+#### This is H4
+##### And here is H5
+###### Finally, H6
 
-##Lists
+## Lists
 I'm a fan of lists. They make things easier to read.
 * Bullet point 1
   * Sub bullet 1
@@ -25,7 +25,7 @@ I'm a fan of lists. They make things easier to read.
   3. Deux
   4. Trois
   
-##Tables
+## Tables
 Tables are a bit harder to do. 
 
 But | They | Are | Neat | Too 
@@ -33,7 +33,7 @@ But | They | Are | Neat | Too
 But | Still, | Lists | Are | Much
 Better | And | Easier| ! | :)
 
-##Links
+## Links
 Links are always helpful, and can lead to many great things.
 
 Here are some doggos. Enjoy.
