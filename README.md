@@ -1,4 +1,3 @@
-# gh-pages
 # Task 1.9: Markdown
 
 ## Headers
